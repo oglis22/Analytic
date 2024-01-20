@@ -4,6 +4,9 @@
 Analytic is a versatile Discord bot for detailed server stats, activity tracking, growth visualization, and community insights.
 
 
+![landingpage](https://github.com/oglis22/Analytic/assets/119761510/7be444d3-e5e3-4d3d-b206-6f1d2245b9c1)
+
+
 ## Authors
 
 - [@oglis22](https://www.github.com/oglis22)
@@ -32,8 +35,17 @@ Than run
 **Client:** EJS
 
 **Server:** Node, Express, body-parser, ChartJS, cookie-parser, discord.js, ejs
+![login](https://github.com/oglis22/Analytic/assets/119761510/c66ba3b4-defd-4c71-b057-3a84f207d80a)
 
-## Important
+![panel1](https://github.com/oglis22/Analytic/assets/119761510/d57a7755-3336-4ae0-bbec-4196c21ca6f1)
 
-**Change in the creds.json username, password and secert**
+
+![panel2](https://github.com/oglis22/Analytic/assets/119761510/1df5d4d3-ea81-4688-a02e-a20a25bdc877)
+
+
+![profile](https://github.com/oglis22/Analytic/assets/119761510/b3ab4d05-3a6e-4dd1-a879-702721923522)
+
+
+![Screenshot 2024-01-20 092315](https://github.com/oglis22/Analytic/assets/119761510/24b679f1-325c-46b3-a142-e3c3ba00081a)
+
 
