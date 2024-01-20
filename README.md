@@ -35,6 +35,8 @@ Than run
 **Client:** EJS
 
 **Server:** Node, Express, body-parser, ChartJS, cookie-parser, discord.js, ejs
+
+
 ![login](https://github.com/oglis22/Analytic/assets/119761510/c66ba3b4-defd-4c71-b057-3a84f207d80a)
 
 ![panel1](https://github.com/oglis22/Analytic/assets/119761510/d57a7755-3336-4ae0-bbec-4196c21ca6f1)
