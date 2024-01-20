@@ -1,7 +1,7 @@
 
 # 🛸 Analytic 🛸
 
-Analytic is a versatile Discord bot for detailed server stats, activity tracking, growth visualization, and community insights.
+Analytic is a versatile Discord bot for detailed server stats, activity tracking, growth visualization, and community insights. (This is the first version of Analytic this project is in the development phase)
 
 
 ![landingpage](https://github.com/oglis22/Analytic/assets/119761510/7be444d3-e5e3-4d3d-b206-6f1d2245b9c1)
