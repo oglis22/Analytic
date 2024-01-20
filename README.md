@@ -27,3 +27,7 @@ To deploy this project run
 
 **Server:** Node, Express, body-parser, ChartJS, cookie-parser, discord.js, ejs
 
+##Important
+
+**Change in the creds.json username, password and secert**
+
